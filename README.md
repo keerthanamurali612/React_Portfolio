@@ -14,3 +14,9 @@
 - HTML
 - Tailwind CSS
 
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm or yarn
